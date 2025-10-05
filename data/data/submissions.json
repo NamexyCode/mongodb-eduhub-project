@@ -1,0 +1,122 @@
+[
+    {
+        "submissionId": "Sub001",
+        "studentId": "S001",
+        "assignmentId": "A001",
+        "submissionDate": "2025-10-05 21:32:52.023580",
+        "contentUrl": "/submissions/S001/A001.pdf",
+        "grade": 95,
+        "feedback": "Great work!",
+        "isGraded": true
+    },
+    {
+        "submissionId": "Sub002",
+        "studentId": "S002",
+        "assignmentId": "A001",
+        "submissionDate": "2025-09-30 21:32:52.023580",
+        "contentUrl": "/submissions/S002/A001.pdf",
+        "grade": 88,
+        "feedback": "Good.",
+        "isGraded": true
+    },
+    {
+        "submissionId": "Sub003",
+        "studentId": "S004",
+        "assignmentId": "A001",
+        "submissionDate": "2025-09-25 21:32:52.023580",
+        "contentUrl": "/submissions/S004/A001.pdf",
+        "grade": 75,
+        "feedback": "Needs improvement.",
+        "isGraded": true
+    },
+    {
+        "submissionId": "Sub004",
+        "studentId": "S001",
+        "assignmentId": "A002",
+        "submissionDate": "2025-09-20 21:32:52.023580",
+        "contentUrl": "/submissions/S001/A002.pdf",
+        "grade": 92,
+        "feedback": "Excellent.",
+        "isGraded": true
+    },
+    {
+        "submissionId": "Sub005",
+        "studentId": "S002",
+        "assignmentId": "A003",
+        "submissionDate": "2025-09-15 21:32:52.023580",
+        "contentUrl": "/submissions/S002/A003.pdf",
+        "grade": 90,
+        "feedback": "Perfect!",
+        "isGraded": true
+    },
+    {
+        "submissionId": "Sub006",
+        "studentId": "S003",
+        "assignmentId": "A004",
+        "submissionDate": "2025-09-10 21:32:52.023580",
+        "contentUrl": "/submissions/S003/A004.pdf",
+        "grade": 85,
+        "feedback": "Solid submission.",
+        "isGraded": true
+    },
+    {
+        "submissionId": "Sub007",
+        "studentId": "S008",
+        "assignmentId": "A004",
+        "submissionDate": "2025-09-05 21:32:52.023580",
+        "contentUrl": "/submissions/S008/A004.pdf",
+        "grade": 70,
+        "feedback": "Try again.",
+        "isGraded": true
+    },
+    {
+        "submissionId": "Sub008",
+        "studentId": "S007",
+        "assignmentId": "A006",
+        "submissionDate": "2025-08-31 21:32:52.023580",
+        "contentUrl": "/submissions/S007/A006.pdf",
+        "grade": 80,
+        "feedback": "Well done.",
+        "isGraded": true
+    },
+    {
+        "submissionId": "Sub009",
+        "studentId": "S003",
+        "assignmentId": "A005",
+        "submissionDate": "2025-08-26 21:32:52.023580",
+        "contentUrl": "/submissions/S003/A005.pdf",
+        "grade": 90,
+        "feedback": "Good job.",
+        "isGraded": true
+    },
+    {
+        "submissionId": "Sub010",
+        "studentId": "S009",
+        "assignmentId": "A009",
+        "submissionDate": "2025-08-21 21:32:52.023580",
+        "contentUrl": "/submissions/S009/A009.pdf",
+        "grade": 78,
+        "feedback": "Almost there.",
+        "isGraded": true
+    },
+    {
+        "submissionId": "Sub011",
+        "studentId": "S011",
+        "assignmentId": "A001",
+        "submissionDate": "2025-08-16 21:32:52.023580",
+        "contentUrl": "/submissions/S011/A001.pdf",
+        "grade": 65,
+        "feedback": "Late submission.",
+        "isGraded": true
+    },
+    {
+        "submissionId": "Sub012",
+        "studentId": "S012",
+        "assignmentId": "A002",
+        "submissionDate": "2025-08-11 21:32:52.023580",
+        "contentUrl": "/submissions/S012/A002.pdf",
+        "grade": 50,
+        "feedback": "Did not follow instructions.",
+        "isGraded": true
+    }
+]

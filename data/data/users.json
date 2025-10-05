@@ -1,0 +1,304 @@
+[
+    {
+        "userId": "I001",
+        "email": "alice@eduhub.com",
+        "firstName": "Alice",
+        "lastName": "Smith",
+        "role": "instructor",
+        "dateJoined": "2025-10-05 21:32:52.023580",
+        "profile": {
+            "bio": "I am a instructor at EduHub.",
+            "skills": [
+                "Python",
+                "SQL"
+            ]
+        },
+        "isActive": true
+    },
+    {
+        "userId": "I002",
+        "email": "bob@eduhub.com",
+        "firstName": "Bob",
+        "lastName": "Johnson",
+        "role": "instructor",
+        "dateJoined": "2025-09-25 21:32:52.023580",
+        "profile": {
+            "bio": "I am a instructor at EduHub.",
+            "skills": [
+                "Python",
+                "SQL"
+            ]
+        },
+        "isActive": true
+    },
+    {
+        "userId": "S001",
+        "email": "student1@eduhub.com",
+        "firstName": "Stu1",
+        "lastName": "Dent1",
+        "role": "student",
+        "dateJoined": "2025-09-15 21:32:52.023580",
+        "profile": {
+            "bio": "I am a student at EduHub.",
+            "skills": [
+                "Learning"
+            ]
+        },
+        "isActive": true
+    },
+    {
+        "userId": "S002",
+        "email": "student2@eduhub.com",
+        "firstName": "Stu2",
+        "lastName": "Dent2",
+        "role": "student",
+        "dateJoined": "2025-09-05 21:32:52.023580",
+        "profile": {
+            "bio": "I am a student at EduHub.",
+            "skills": [
+                "Learning"
+            ]
+        },
+        "isActive": true
+    },
+    {
+        "userId": "S003",
+        "email": "student3@eduhub.com",
+        "firstName": "Stu3",
+        "lastName": "Dent3",
+        "role": "student",
+        "dateJoined": "2025-08-26 21:32:52.023580",
+        "profile": {
+            "bio": "I am a student at EduHub.",
+            "skills": [
+                "Learning"
+            ]
+        },
+        "isActive": true
+    },
+    {
+        "userId": "S004",
+        "email": "student4@eduhub.com",
+        "firstName": "Stu4",
+        "lastName": "Dent4",
+        "role": "student",
+        "dateJoined": "2025-08-16 21:32:52.023580",
+        "profile": {
+            "bio": "I am a student at EduHub.",
+            "skills": [
+                "Learning"
+            ]
+        },
+        "isActive": true
+    },
+    {
+        "userId": "S005",
+        "email": "student5@eduhub.com",
+        "firstName": "Stu5",
+        "lastName": "Dent5",
+        "role": "student",
+        "dateJoined": "2025-08-06 21:32:52.023580",
+        "profile": {
+            "bio": "I am a student at EduHub.",
+            "skills": [
+                "Learning"
+            ]
+        },
+        "isActive": true
+    },
+    {
+        "userId": "S006",
+        "email": "student6@eduhub.com",
+        "firstName": "Stu6",
+        "lastName": "Dent6",
+        "role": "student",
+        "dateJoined": "2025-07-27 21:32:52.023580",
+        "profile": {
+            "bio": "I am a student at EduHub.",
+            "skills": [
+                "Learning"
+            ]
+        },
+        "isActive": true
+    },
+    {
+        "userId": "S007",
+        "email": "student7@eduhub.com",
+        "firstName": "Stu7",
+        "lastName": "Dent7",
+        "role": "student",
+        "dateJoined": "2025-07-17 21:32:52.023580",
+        "profile": {
+            "bio": "I am a student at EduHub.",
+            "skills": [
+                "Learning"
+            ]
+        },
+        "isActive": true
+    },
+    {
+        "userId": "S008",
+        "email": "student8@eduhub.com",
+        "firstName": "Stu8",
+        "lastName": "Dent8",
+        "role": "student",
+        "dateJoined": "2025-07-07 21:32:52.023580",
+        "profile": {
+            "bio": "I am a student at EduHub.",
+            "skills": [
+                "Learning"
+            ]
+        },
+        "isActive": true
+    },
+    {
+        "userId": "S009",
+        "email": "student9@eduhub.com",
+        "firstName": "Stu9",
+        "lastName": "Dent9",
+        "role": "student",
+        "dateJoined": "2025-06-27 21:32:52.023580",
+        "profile": {
+            "bio": "I am a student at EduHub.",
+            "skills": [
+                "Learning"
+            ]
+        },
+        "isActive": true
+    },
+    {
+        "userId": "S010",
+        "email": "student10@eduhub.com",
+        "firstName": "Stu10",
+        "lastName": "Dent10",
+        "role": "student",
+        "dateJoined": "2025-06-17 21:32:52.023580",
+        "profile": {
+            "bio": "I am a student at EduHub.",
+            "skills": [
+                "Learning"
+            ]
+        },
+        "isActive": true
+    },
+    {
+        "userId": "S011",
+        "email": "student11@eduhub.com",
+        "firstName": "Stu11",
+        "lastName": "Dent11",
+        "role": "student",
+        "dateJoined": "2025-06-07 21:32:52.023580",
+        "profile": {
+            "bio": "I am a student at EduHub.",
+            "skills": [
+                "Learning"
+            ]
+        },
+        "isActive": true
+    },
+    {
+        "userId": "S012",
+        "email": "student12@eduhub.com",
+        "firstName": "Stu12",
+        "lastName": "Dent12",
+        "role": "student",
+        "dateJoined": "2025-05-28 21:32:52.023580",
+        "profile": {
+            "bio": "I am a student at EduHub.",
+            "skills": [
+                "Learning"
+            ]
+        },
+        "isActive": true
+    },
+    {
+        "userId": "S013",
+        "email": "student13@eduhub.com",
+        "firstName": "Stu13",
+        "lastName": "Dent13",
+        "role": "student",
+        "dateJoined": "2025-05-18 21:32:52.023580",
+        "profile": {
+            "bio": "I am a student at EduHub.",
+            "skills": [
+                "Learning"
+            ]
+        },
+        "isActive": true
+    },
+    {
+        "userId": "S014",
+        "email": "student14@eduhub.com",
+        "firstName": "Stu14",
+        "lastName": "Dent14",
+        "role": "student",
+        "dateJoined": "2025-05-08 21:32:52.023580",
+        "profile": {
+            "bio": "I am a student at EduHub.",
+            "skills": [
+                "Learning"
+            ]
+        },
+        "isActive": true
+    },
+    {
+        "userId": "S015",
+        "email": "student15@eduhub.com",
+        "firstName": "Stu15",
+        "lastName": "Dent15",
+        "role": "student",
+        "dateJoined": "2025-04-28 21:32:52.023580",
+        "profile": {
+            "bio": "I am a student at EduHub.",
+            "skills": [
+                "Learning"
+            ]
+        },
+        "isActive": true
+    },
+    {
+        "userId": "S016",
+        "email": "student16@eduhub.com",
+        "firstName": "Stu16",
+        "lastName": "Dent16",
+        "role": "student",
+        "dateJoined": "2025-04-18 21:32:52.023580",
+        "profile": {
+            "bio": "I am a student at EduHub.",
+            "skills": [
+                "Learning"
+            ]
+        },
+        "isActive": true
+    },
+    {
+        "userId": "S017",
+        "email": "student17@eduhub.com",
+        "firstName": "Stu17",
+        "lastName": "Dent17",
+        "role": "student",
+        "dateJoined": "2025-04-08 21:32:52.023580",
+        "profile": {
+            "bio": "I am a student at EduHub.",
+            "skills": [
+                "Learning"
+            ]
+        },
+        "isActive": true
+    },
+    {
+        "userId": "S018",
+        "email": "student18@eduhub.com",
+        "firstName": "Stu18",
+        "lastName": "Dent18",
+        "role": "student",
+        "dateJoined": "2025-03-29 21:32:52.023580",
+        "profile": {
+            "bio": "I am a student at EduHub.",
+            "skills": [
+                "Learning"
+            ]
+        },
+        "isActive": true
+    }
+]

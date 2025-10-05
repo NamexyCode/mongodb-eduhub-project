@@ -1,0 +1,138 @@
+[
+    {
+        "courseId": "C001",
+        "title": "Intro to MongoDB",
+        "description": "A comprehensive course on Intro to MongoDB.",
+        "instructorId": "I001",
+        "category": "Database",
+        "level": "beginner",
+        "duration": 10,
+        "price": 99.99,
+        "tags": [
+            "database",
+            "beginner"
+        ],
+        "createdAt": "2025-10-05 21:32:52.023580",
+        "updatedAt": "2025-10-05 21:32:52.023580",
+        "isPublished": true
+    },
+    {
+        "courseId": "C002",
+        "title": "Advanced PyMongo",
+        "description": "A comprehensive course on Advanced PyMongo.",
+        "instructorId": "I001",
+        "category": "Programming",
+        "level": "advanced",
+        "duration": 12,
+        "price": 199.5,
+        "tags": [
+            "programming",
+            "advanced"
+        ],
+        "createdAt": "2025-09-05 21:32:52.023580",
+        "updatedAt": "2025-09-25 21:32:52.023580",
+        "isPublished": true
+    },
+    {
+        "courseId": "C003",
+        "title": "Web Development 101",
+        "description": "A comprehensive course on Web Development 101.",
+        "instructorId": "I002",
+        "category": "Web Dev",
+        "level": "beginner",
+        "duration": 14,
+        "price": 49.0,
+        "tags": [
+            "web-dev",
+            "beginner"
+        ],
+        "createdAt": "2025-08-06 21:32:52.023580",
+        "updatedAt": "2025-09-15 21:32:52.023580",
+        "isPublished": true
+    },
+    {
+        "courseId": "C004",
+        "title": "Data Science with Python",
+        "description": "A comprehensive course on Data Science with Python.",
+        "instructorId": "I002",
+        "category": "Data Science",
+        "level": "intermediate",
+        "duration": 16,
+        "price": 250.0,
+        "tags": [
+            "data-science",
+            "intermediate"
+        ],
+        "createdAt": "2025-07-07 21:32:52.023580",
+        "updatedAt": "2025-09-05 21:32:52.023580",
+        "isPublished": true
+    },
+    {
+        "courseId": "C005",
+        "title": "NoSQL Data Modeling",
+        "description": "A comprehensive course on NoSQL Data Modeling.",
+        "instructorId": "I001",
+        "category": "Database",
+        "level": "intermediate",
+        "duration": 18,
+        "price": 120.0,
+        "tags": [
+            "database",
+            "intermediate"
+        ],
+        "createdAt": "2025-06-07 21:32:52.023580",
+        "updatedAt": "2025-08-26 21:32:52.023580",
+        "isPublished": true
+    },
+    {
+        "courseId": "C006",
+        "title": "JavaScript Deep Dive",
+        "description": "A comprehensive course on JavaScript Deep Dive.",
+        "instructorId": "I002",
+        "category": "Web Dev",
+        "level": "advanced",
+        "duration": 20,
+        "price": 80.0,
+        "tags": [
+            "web-dev",
+            "advanced"
+        ],
+        "createdAt": "2025-05-08 21:32:52.023580",
+        "updatedAt": "2025-08-16 21:32:52.023580",
+        "isPublished": true
+    },
+    {
+        "courseId": "C007",
+        "title": "Cloud Computing Basics",
+        "description": "A comprehensive course on Cloud Computing Basics.",
+        "instructorId": "I001",
+        "category": "DevOps",
+        "level": "beginner",
+        "duration": 22,
+        "price": 55.0,
+        "tags": [
+            "devops",
+            "beginner"
+        ],
+        "createdAt": "2025-04-08 21:32:52.023580",
+        "updatedAt": "2025-08-06 21:32:52.023580",
+        "isPublished": true
+    },
+    {
+        "courseId": "C008",
+        "title": "Machine Learning Fundamentals",
+        "description": "A comprehensive course on Machine Learning Fundamentals.",
+        "instructorId": "I002",
+        "category": "Data Science",
+        "level": "intermediate",
+        "duration": 24,
+        "price": 300.0,
+        "tags": [
+            "data-science",
+            "intermediate"
+        ],
+        "createdAt": "2025-03-09 21:32:52.023580",
+        "updatedAt": "2025-07-27 21:32:52.023580",
+        "isPublished": true
+    }
+]

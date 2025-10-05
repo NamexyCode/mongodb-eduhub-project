@@ -1,0 +1,122 @@
+[
+    {
+        "enrollmentId": "E001",
+        "studentId": "S001",
+        "courseId": "C001",
+        "enrollmentDate": "2025-10-05 21:32:52.023580",
+        "progress": 100.0,
+        "status": "completed"
+    },
+    {
+        "enrollmentId": "E002",
+        "studentId": "S001",
+        "courseId": "C002",
+        "enrollmentDate": "2025-09-10 21:32:52.023580",
+        "progress": 50.0,
+        "status": "active"
+    },
+    {
+        "enrollmentId": "E003",
+        "studentId": "S002",
+        "courseId": "C001",
+        "enrollmentDate": "2025-08-16 21:32:52.023580",
+        "progress": 80.0,
+        "status": "active"
+    },
+    {
+        "enrollmentId": "E004",
+        "studentId": "S002",
+        "courseId": "C003",
+        "enrollmentDate": "2025-07-22 21:32:52.023580",
+        "progress": 10.0,
+        "status": "active"
+    },
+    {
+        "enrollmentId": "E005",
+        "studentId": "S003",
+        "courseId": "C004",
+        "enrollmentDate": "2025-06-27 21:32:52.023580",
+        "progress": 100.0,
+        "status": "completed"
+    },
+    {
+        "enrollmentId": "E006",
+        "studentId": "S004",
+        "courseId": "C001",
+        "enrollmentDate": "2025-06-02 21:32:52.023580",
+        "progress": 25.0,
+        "status": "active"
+    },
+    {
+        "enrollmentId": "E007",
+        "studentId": "S005",
+        "courseId": "C002",
+        "enrollmentDate": "2025-05-08 21:32:52.023580",
+        "progress": 0.0,
+        "status": "active"
+    },
+    {
+        "enrollmentId": "E008",
+        "studentId": "S006",
+        "courseId": "C003",
+        "enrollmentDate": "2025-04-13 21:32:52.023580",
+        "progress": 100.0,
+        "status": "completed"
+    },
+    {
+        "enrollmentId": "E009",
+        "studentId": "S007",
+        "courseId": "C005",
+        "enrollmentDate": "2025-03-19 21:32:52.023580",
+        "progress": 70.0,
+        "status": "active"
+    },
+    {
+        "enrollmentId": "E010",
+        "studentId": "S008",
+        "courseId": "C004",
+        "enrollmentDate": "2025-02-22 21:32:52.023580",
+        "progress": 30.0,
+        "status": "active"
+    },
+    {
+        "enrollmentId": "E011",
+        "studentId": "S009",
+        "courseId": "C007",
+        "enrollmentDate": "2025-01-28 21:32:52.023580",
+        "progress": 90.0,
+        "status": "active"
+    },
+    {
+        "enrollmentId": "E012",
+        "studentId": "S010",
+        "courseId": "C008",
+        "enrollmentDate": "2025-01-03 21:32:52.023580",
+        "progress": 45.0,
+        "status": "active"
+    },
+    {
+        "enrollmentId": "E013",
+        "studentId": "S011",
+        "courseId": "C001",
+        "enrollmentDate": "2024-12-09 21:32:52.023580",
+        "progress": 60.0,
+        "status": "active"
+    },
+    {
+        "enrollmentId": "E014",
+        "studentId": "S012",
+        "courseId": "C002",
+        "enrollmentDate": "2024-11-14 21:32:52.023580",
+        "progress": 15.0,
+        "status": "active"
+    },
+    {
+        "enrollmentId": "E015",
+        "studentId": "S013",
+        "courseId": "C005",
+        "enrollmentDate": "2024-10-20 21:32:52.023580",
+        "progress": 10.0,
+        "status": "active"
+    }
+]

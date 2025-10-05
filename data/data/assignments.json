@@ -1,0 +1,82 @@
+[
+    {
+        "assignmentId": "A001",
+        "courseId": "C001",
+        "title": "Assignment 1 for C001",
+        "description": "Complete a task related to course C001.",
+        "dueDate": "2025-10-13 21:32:52.023580",
+        "maxScore": 100
+    },
+    {
+        "assignmentId": "A002",
+        "courseId": "C001",
+        "title": "Assignment 2 for C001",
+        "description": "Complete a task related to course C001.",
+        "dueDate": "2025-10-14 21:32:52.023580",
+        "maxScore": 100
+    },
+    {
+        "assignmentId": "A003",
+        "courseId": "C001",
+        "title": "Assignment 3 for C001",
+        "description": "Complete a task related to course C001.",
+        "dueDate": "2025-10-15 21:32:52.023580",
+        "maxScore": 100
+    },
+    {
+        "assignmentId": "A004",
+        "courseId": "C002",
+        "title": "Assignment 1 for C002",
+        "description": "Complete a task related to course C002.",
+        "dueDate": "2025-10-16 21:32:52.023580",
+        "maxScore": 100
+    },
+    {
+        "assignmentId": "A005",
+        "courseId": "C002",
+        "title": "Assignment 2 for C002",
+        "description": "Complete a task related to course C002.",
+        "dueDate": "2025-10-17 21:32:52.023580",
+        "maxScore": 100
+    },
+    {
+        "assignmentId": "A006",
+        "courseId": "C003",
+        "title": "Assignment 1 for C003",
+        "description": "Complete a task related to course C003.",
+        "dueDate": "2025-10-18 21:32:52.023580",
+        "maxScore": 100
+    },
+    {
+        "assignmentId": "A007",
+        "courseId": "C004",
+        "title": "Assignment 1 for C004",
+        "description": "Complete a task related to course C004.",
+        "dueDate": "2025-10-19 21:32:52.023580",
+        "maxScore": 100
+    },
+    {
+        "assignmentId": "A008",
+        "courseId": "C004",
+        "title": "Assignment 2 for C004",
+        "description": "Complete a task related to course C004.",
+        "dueDate": "2025-10-20 21:32:52.023580",
+        "maxScore": 100
+    },
+    {
+        "assignmentId": "A009",
+        "courseId": "C005",
+        "title": "Assignment 1 for C005",
+        "description": "Complete a task related to course C005.",
+        "dueDate": "2025-10-21 21:32:52.023580",
+        "maxScore": 100
+    },
+    {
+        "assignmentId": "A010",
+        "courseId": "C007",
+        "title": "Assignment 1 for C007",
+        "description": "Complete a task related to course C007.",
+        "dueDate": "2025-10-22 21:32:52.023580",
+        "maxScore": 100
+    }
+]

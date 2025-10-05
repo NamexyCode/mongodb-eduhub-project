@@ -1,0 +1,202 @@
+[
+    {
+        "lessonId": "L001",
+        "courseId": "C001",
+        "title": "Lesson 1: Topic for C001",
+        "contentUrl": "/videos/C001/lesson1.mp4",
+        "duration": 20,
+        "order": 1
+    },
+    {
+        "lessonId": "L002",
+        "courseId": "C001",
+        "title": "Lesson 2: Topic for C001",
+        "contentUrl": "/videos/C001/lesson2.mp4",
+        "duration": 25,
+        "order": 2
+    },
+    {
+        "lessonId": "L003",
+        "courseId": "C001",
+        "title": "Lesson 3: Topic for C001",
+        "contentUrl": "/videos/C001/lesson3.mp4",
+        "duration": 30,
+        "order": 3
+    },
+    {
+        "lessonId": "L004",
+        "courseId": "C001",
+        "title": "Lesson 4: Topic for C001",
+        "contentUrl": "/videos/C001/lesson4.mp4",
+        "duration": 35,
+        "order": 4
+    },
+    {
+        "lessonId": "L005",
+        "courseId": "C001",
+        "title": "Lesson 5: Topic for C001",
+        "contentUrl": "/videos/C001/lesson5.mp4",
+        "duration": 40,
+        "order": 5
+    },
+    {
+        "lessonId": "L006",
+        "courseId": "C002",
+        "title": "Lesson 1: Topic for C002",
+        "contentUrl": "/videos/C002/lesson1.mp4",
+        "duration": 20,
+        "order": 1
+    },
+    {
+        "lessonId": "L007",
+        "courseId": "C002",
+        "title": "Lesson 2: Topic for C002",
+        "contentUrl": "/videos/C002/lesson2.mp4",
+        "duration": 25,
+        "order": 2
+    },
+    {
+        "lessonId": "L008",
+        "courseId": "C002",
+        "title": "Lesson 3: Topic for C002",
+        "contentUrl": "/videos/C002/lesson3.mp4",
+        "duration": 30,
+        "order": 3
+    },
+    {
+        "lessonId": "L009",
+        "courseId": "C002",
+        "title": "Lesson 4: Topic for C002",
+        "contentUrl": "/videos/C002/lesson4.mp4",
+        "duration": 35,
+        "order": 4
+    },
+    {
+        "lessonId": "L010",
+        "courseId": "C003",
+        "title": "Lesson 1: Topic for C003",
+        "contentUrl": "/videos/C003/lesson1.mp4",
+        "duration": 20,
+        "order": 1
+    },
+    {
+        "lessonId": "L011",
+        "courseId": "C003",
+        "title": "Lesson 2: Topic for C003",
+        "contentUrl": "/videos/C003/lesson2.mp4",
+        "duration": 25,
+        "order": 2
+    },
+    {
+        "lessonId": "L012",
+        "courseId": "C003",
+        "title": "Lesson 3: Topic for C003",
+        "contentUrl": "/videos/C003/lesson3.mp4",
+        "duration": 30,
+        "order": 3
+    },
+    {
+        "lessonId": "L013",
+        "courseId": "C004",
+        "title": "Lesson 1: Topic for C004",
+        "contentUrl": "/videos/C004/lesson1.mp4",
+        "duration": 20,
+        "order": 1
+    },
+    {
+        "lessonId": "L014",
+        "courseId": "C004",
+        "title": "Lesson 2: Topic for C004",
+        "contentUrl": "/videos/C004/lesson2.mp4",
+        "duration": 25,
+        "order": 2
+    },
+    {
+        "lessonId": "L015",
+        "courseId": "C004",
+        "title": "Lesson 3: Topic for C004",
+        "contentUrl": "/videos/C004/lesson3.mp4",
+        "duration": 30,
+        "order": 3
+    },
+    {
+        "lessonId": "L016",
+        "courseId": "C004",
+        "title": "Lesson 4: Topic for C004",
+        "contentUrl": "/videos/C004/lesson4.mp4",
+        "duration": 35,
+        "order": 4
+    },
+    {
+        "lessonId": "L017",
+        "courseId": "C005",
+        "title": "Lesson 1: Topic for C005",
+        "contentUrl": "/videos/C005/lesson1.mp4",
+        "duration": 20,
+        "order": 1
+    },
+    {
+        "lessonId": "L018",
+        "courseId": "C005",
+        "title": "Lesson 2: Topic for C005",
+        "contentUrl": "/videos/C005/lesson2.mp4",
+        "duration": 25,
+        "order": 2
+    },
+    {
+        "lessonId": "L019",
+        "courseId": "C005",
+        "title": "Lesson 3: Topic for C005",
+        "contentUrl": "/videos/C005/lesson3.mp4",
+        "duration": 30,
+        "order": 3
+    },
+    {
+        "lessonId": "L020",
+        "courseId": "C006",
+        "title": "Lesson 1: Topic for C006",
+        "contentUrl": "/videos/C006/lesson1.mp4",
+        "duration": 20,
+        "order": 1
+    },
+    {
+        "lessonId": "L021",
+        "courseId": "C006",
+        "title": "Lesson 2: Topic for C006",
+        "contentUrl": "/videos/C006/lesson2.mp4",
+        "duration": 25,
+        "order": 2
+    },
+    {
+        "lessonId": "L022",
+        "courseId": "C006",
+        "title": "Lesson 3: Topic for C006",
+        "contentUrl": "/videos/C006/lesson3.mp4",
+        "duration": 30,
+        "order": 3
+    },
+    {
+        "lessonId": "L023",
+        "courseId": "C007",
+        "title": "Lesson 1: Topic for C007",
+        "contentUrl": "/videos/C007/lesson1.mp4",
+        "duration": 20,
+        "order": 1
+    },
+    {
+        "lessonId": "L024",
+        "courseId": "C007",
+        "title": "Lesson 2: Topic for C007",
+        "contentUrl": "/videos/C007/lesson2.mp4",
+        "duration": 25,
+        "order": 2
+    },
+    {
+        "lessonId": "L025",
+        "courseId": "C008",
+        "title": "Lesson 1: Topic for C008",
+        "contentUrl": "/videos/C008/lesson1.mp4",
+        "duration": 20,
+        "order": 1
+    }
+]
